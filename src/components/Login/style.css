@@ -1,0 +1,36 @@
+.login{
+    margin-top: 90px;
+}
+.login-wrapper {
+    width: 600px;
+    margin: 50px auto 0;
+}
+
+ .signup-btn,
+  .login-btn {
+    cursor: pointer;
+    width: 300px;
+    margin: 20px auto 0;
+    text-align: center;
+    color: #52d4f1;
+    font-weight: 500;
+}
+
+ .home-title {
+    font-size: 40px;
+    /* margin-top: 120px; */
+    /* top: 90; */
+
+}
+
+
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+.auth-msg {
+
+        margin-top: 20px;
+
+}

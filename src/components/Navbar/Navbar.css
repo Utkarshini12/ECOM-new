@@ -1,0 +1,63 @@
+.header {
+  height: 90px;
+  padding: 20px 0;
+  background-color: #ecf0f1;
+}
+
+.header-wrapper{
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.logo {
+
+  font-size: 24px;
+  line-height: 24px;
+  display: block;
+}
+
+a{
+  text-decoration: none;
+}
+
+.logo a{
+
+	color: #000;
+}
+
+
+.user-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+}
+
+.user-intro {
+
+  height: 30px;
+  width: 100px;
+  background-color: #52d4f1;
+  color: #03030e;
+  border-radius: 25px;
+  padding: 1px 10px; 
+  text-align: center;
+}
+
+ .user-actions a {
+	color: #333;
+	margin-right: 40px;
+}
+
+.login-btn{
+  margin-left: 40px !important;
+    margin-bottom: 25px !important
+}
+
+.logout-btn{
+  margin-left: 40px;
+  cursor: pointer;
+}
